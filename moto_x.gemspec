@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MotoX::VERSION
   spec.authors       = ["AjayROR"]
   spec.email         = ["sahu.ajaykumar4@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{ This is the Gem specification. }
+  spec.description   = %q{ This is the Gem Description }
   spec.homepage      = ""
   spec.license       = "MIT"
 
